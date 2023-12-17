@@ -27,3 +27,16 @@
 <a href="https://media.discordapp.net/attachments/1171107959296770110/1185743097120956467/image.png?ex=6590b850&is=657e4350&hm=096edcaccd8773f8ea2fcdc131a1ad38985eea6da1927b6fedec8066c21fdf58&=&format=webp&quality=lossless&width=1384&height=675">Posts Page Image (Press Here)</a>
 <br>
 <a href="https://media.discordapp.net/attachments/1171107959296770110/1185743293724758066/image.png?ex=6590b87f&is=657e437f&hm=5155239465432f5fa4a428e3de5720f98a602fd636d55088fcc22386a8be32f0&=&format=webp&quality=lossless&width=1378&height=673">Profile Page Image (Press Here)</a>
+
+
+<h1>Installation:</h1>
+<h5>
+    <ul>
+      <li>Download MarketPlace</li>
+      <li>Goto the SQL file and search for "sitename", you can see the sitename and siteurl and sitelogo.</li>
+      <li>Change Sitename to your website name, change url to your websites URL, and change the sitelogo to the images URL.</li>
+      <li>Goto folder "configuration" and edit "config.php". now change all the information to your information. </li>
+      <li>Download the SQL and upload it to whatever your using. I recommend PhpMyAdmin.</li>
+      <li>And your done.</li>
+  </ul>
+</h5>
