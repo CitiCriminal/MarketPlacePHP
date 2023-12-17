@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
+
+
+body{
+    background-color:#08111f;
+    color:white;
+    overflow-x:hidden;
+}
+
+.landing{
+}
+
+.background-image-world{
+    width:1000px;
+    height:600px;
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.background-image-undraw{
+    width:500px;
+    height:500px;
+    position:absolute;
+    top:50%;
+    left:65%;
+    transform:translate(-50%, -50%);
+}
+
+.title{
+    color:#47bdff;
+    font-family: 'Poppins', sans-serif;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:250px;
+    font-size:50px;
+    right:250px;
+}
+
+.another-title{
+    color:#b476e5;
+    font-family: 'Nunito', sans-serif;
+}
+.another-title-top{
+    color:#47bdff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.description{
+    color:white;
+    font-family: 'Hanken Grotesk', sans-serif;
+    position:relative;
+}
+
+.description-div{
+    position:relative;
+    margin:auto;
+    text-align:center;
+    top:240px;
+    right:250px;
+    font-size:18px;
+}
+
+.register-btn{
+    width:150px;
+    height:50px;
+    background-color:white;
+    color:black;
+    border-radius:15px;
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+}
+
+.panel{
+    height:1600px;
+    width:100%;
+    background-color:#101926;
+    position:absolute;
+    left:0px;
+    top:700px;
+}
+
+.top{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    background-color:#08111f;
+    width:100%;
+    height:200px;
+    bottom:50px;
+    border-bottom-left-radius:2500%;
+    border-bottom-right-radius:2500%;
+}
+
+.graph-title{
+    position:relative;
+    text-align:center;
+    font-size:50px;
+}
+
+.prouduser-title{
+    position:relative;
+    text-align:center;
+    font-size:25px;
+    bottom:50px;
+}
+.graph{
+    position:relative;
+    text-align:center;
+    margin:auto;
+}
+.graph-img{
+    width:100px;
+    height:100px;
+    position:relative;
+    margin:10px;
+}
+
+.graph-text{
+    position:relative;
+    text-align:center;
+    margin:35px;
+    display:inline-block;
+    font-size:25px;
+    font-family: 'Poppins', sans-serif;
+    bottom:25px;
+    left:5px;
+}
+
+.ourteam{
+    position:relative;
+    top:100px;
+}
+
+.team{
+    background-color:#08111f;
+    position:relative;
+    text-align:center;
+    margin:20px;
+    width:275px;
+    height:365px;
+    border-radius:15px;
+    display:inline-block;
+}
+.team-profile{
+    width:200px;
+    height:200px;
+    position:relative;
+    top:20px;
+}
+
+.team-text{
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    font-size:25px;
+    margin:25px;
+    position:relative;
+    top:20px;
+}
+
+.pricing{
+    background-color:#08111f;
+    width:100%;
+    height:600px;
+    position:absolute;
+    top:1300px;
+}
+
+.pricing-table{
+    background-color:#101926;
+    position:relative;
+    text-align:center;
+    margin:20px;
+    width:275px;
+    height:365px;
+    border-radius:15px;
+    display:inline-block;
+}
+
+.copyright{
+    position:relative;
+    top:250px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    background-color:transparent;
+    position:absolute;
+    width:100%;
+    height:100px;
+    top:0px;
+    left:0px;
+}
+
+.header-image-div{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    float:left;
+    left:100px;
+    top:10px;
+}
+.header-logo{
+    width:350px;
+    height:100px;
+}
+
+.header-buttons{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    right:175px;
+}
+
+.header-button{
+    color:white;
+    text-decoration:none;
+    font-size:25px;
+    position:relative;
+    top:35px;
+    margin:10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-buttons-right{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    float:right;
+    bottom:15px;
+    right:75px;
+}
+
+.header-button-login{
+    width:125px;
+    height:50px;
+    background-color:white;
+    color:black;
+    font-family: 'Poppins', sans-serif;
+    font-size:25px;
+    border-radius:15px;
+}

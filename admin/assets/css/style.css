@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
+
+
+body{
+    background-color:#08111f;
+    color:white;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.another-title{
+    color:#b476e5;
+    font-family: 'Nunito', sans-serif;
+}
+.another-title-top{
+    color:#47bdff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    position:relative;
+    width:250px;
+    height:900px;
+    top:30px;
+    background-color:#101926;
+    left:25px;
+    border-radius:15px;
+}
+
+.header-title{
+    position:relative;
+    text-align:center;
+    top:25px;
+    font-size:40px;
+}
+
+button{
+    width:175px;
+    height:60px;
+    background-color:#08111f;
+    color:white;
+    border:none;
+    border-radius:15px;
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+    margin:15px;
+    cursor:pointer;
+}
+
+.header-buttons{
+    position:relative;
+    text-align:center;
+}
+
+.header-button{
+    position:relative;
+    top:100px;
+}
+
+.profile-picture{
+    width:100px;
+    height:100px;
+    position:relative;
+    float:right;
+    right:150px;
+    top:11px;
+}
+
+.content{
+    width:1560px;
+    height:730px;
+    background-color:transparent;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    bottom:700px;
+    left:141px;
+}
+
+.sitename{
+    position:relative;
+    text-align:center;
+    background-color:#101926;
+    width:400px;
+    height:125px;
+    margin:10px;
+    border-radius:15px;
+    display:inline-block;
+}
+
+.maintenance-panel{
+    position:relative;
+    text-align:center;
+    background-color:#101926;
+    width:400px;
+    height:175px;
+    margin:10px;
+    border-radius:15px;
+    display:inline-block;
+}
+
+.maintenance-title{
+    font-size:20px;
+    font-family:'Poppins', sans-serif;
+}
+
+
+.site-name-input{
+    background-color:transparent;
+    border:1px solid white;
+    width:250px;
+    height:30px;
+    border-radius:15px;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    margin:5px;
+    top:15px;
+    color:white;
+}
+
+.sitename-button{
+    position:relative;
+    top:5px;
+}

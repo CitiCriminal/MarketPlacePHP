@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
+
+
+body{
+    background-color:#08111f;
+    color:white;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+.another-title{
+    color:#b476e5;
+    font-family: 'Nunito', sans-serif;
+}
+.another-title-top{
+    color:#47bdff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:350px;
+    font-size:75px;
+    font-family:'Poppins', sans-serif;
+    color:#47bdff;
+}
+
+.description{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:350px;
+    font-size:50px;
+}
+
+.logout-div{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:400px;
+}
+.logout-btn{
+    color:white;
+    text-decoration:none;
+    font-size:35px;
+    font-family:'Nunito', sans-serif;
+}

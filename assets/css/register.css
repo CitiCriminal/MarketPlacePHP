@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&display=swap');
+
+
+body{
+    background-color:#08111f;
+    color:white;
+    overflow-x:hidden;
+}
+
+.another-title{
+    color:#b476e5;
+    font-family: 'Nunito', sans-serif;
+}
+.another-title-top{
+    color:#47bdff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.panel{
+    height:550px;
+    width:400px;
+    background-color:#101926;
+    position:relative;
+    text-align:center;
+    margin:auto;
+    top:200px;
+    border-radius:15px;
+}
+
+.login-title{
+    position:relative;
+    top:50px;
+    font-size:25px;
+}
+
+.login-input{
+    position:relative;
+    top:50px;
+    width:275px;
+    height:40px;
+    background-color:transparent;
+    color:white;
+    border:2px solid white;
+    border-radius:15px;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+}
+
+.login-input-label{
+    position:relative;
+    top:60px;
+    right:100px;
+}
+
+.login-input-label-another{
+    position:relative;
+    top:60px;
+    right:100px;
+}
+
+.btn-input{
+    width:175px;
+    height:50px;
+    position:relative;
+    top:100px;
+    background-color:transparent;
+    border:2px solid white;
+    border-radius:15px;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    font-size:20px;
+}
+
+.noacc{
+    position:relative;
+    text-align:center;
+    top:110px;
+    color:white;
+    font-size:20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.noaccbtn{
+    color:white;
+    text-decoration: none;
+}
